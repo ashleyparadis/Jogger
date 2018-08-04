@@ -2,15 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "placeholderRun.png",
+      "filename" : "placeholderMap.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "placeholderRun@2x.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
+      "filename" : "placeholderRun@3x.png",
       "scale" : "3x"
     }
   ],
