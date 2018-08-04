@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Jogger
+
+  Created by Ashley Paradis on 2018-07-18.
+  Copyright © 2018 Ashley Paradis. All rights reserved.
+*/
+
+"Distance (miles)" = "Distance (miles)";
+"Current Speed (mph)" = "Vitesse actuelle (mph)";
+"Distance (km)" = "Distance (km)";
+"Current Speed (km/h)" = "Vitesse actualle (km/h)";
+"FINISH" = "FIN";
+"START" = "DÉPART";
+"History" = "Histoire";
+"Choose Image" = "Choisir une image";
+"Take a new photo" = "Prendre une nouvelle photo";
+"Choose from camera roll" = "Choisissez parmi le rouleau de caméra";
+"Cancel" = "Annuler";
+"Done" = "Terminé";

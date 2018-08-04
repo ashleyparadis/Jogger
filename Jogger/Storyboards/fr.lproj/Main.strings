@@ -1,0 +1,177 @@
+
+/* Class = "UILabel"; text = "000.00 min"; ObjectID = "3WH-L7-FP5"; */
+"3WH-L7-FP5.text" = "000.00 min";
+
+/* Class = "UIButton"; normalTitle = "Log In with Facebook"; ObjectID = "3wc-7K-JjZ"; */
+"3wc-7K-JjZ.normalTitle" = "Se connecter avec Facebook";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "4cD-sh-ckS"; */
+"4cD-sh-ckS.text" = "Se connecter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4wF-j3-z3R"; */
+"4wF-j3-z3R.normalTitle" = "Boutton";
+
+/* Class = "UIButton"; normalTitle = "LOG OUT"; ObjectID = "8Rb-zy-tiU"; */
+"8Rb-zy-tiU.normalTitle" = "SE DÉCONNECTER";
+
+/* Class = "UILabel"; text = "00.0 km/hr"; ObjectID = "9dk-qb-I1q"; */
+"9dk-qb-I1q.text" = "00.0 km/hr";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "Aal-tl-alS"; */
+"Aal-tl-alS.text" = "00:00:00";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "C7f-e5-jiU"; */
+"C7f-e5-jiU.placeholder" = "Entrer votre Email";
+
+/* Class = "UISegmentedControl"; Chv-0t-pki.segmentTitles[0] = "km"; ObjectID = "Chv-0t-pki"; */
+"Chv-0t-pki.segmentTitles[0]" = "km";
+
+/* Class = "UISegmentedControl"; Chv-0t-pki.segmentTitles[1] = "mi"; ObjectID = "Chv-0t-pki"; */
+"Chv-0t-pki.segmentTitles[1]" = "mi";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "CyU-Oa-cda"; */
+"CyU-Oa-cda.text" = "Couleur";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "DKK-Do-WZg"; */
+"DKK-Do-WZg.text" = "Titre";
+
+/* Class = "UILabel"; text = "Average Pace"; ObjectID = "E4J-2P-1un"; */
+"E4J-2P-1un.text" = "Rythme moyen";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FOV-QV-Lb8"; */
+"FOV-QV-Lb8.normalTitle" = "Boutton";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GZf-AZ-bbd"; */
+"GZf-AZ-bbd.normalTitle" = "Boutton";
+
+/* Class = "UILabel"; text = "Distance (km)"; ObjectID = "I5M-A8-IhP"; */
+"I5M-A8-IhP.text" = "Distance (km)";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "IaE-Mb-CgB"; */
+"IaE-Mb-CgB.text" = "00.00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "J4U-jF-19k"; */
+"J4U-jF-19k.normalTitle" = "Boutton";
+
+/* Class = "UILabel"; text = "Unit"; ObjectID = "LRL-8k-CkS"; */
+"LRL-8k-CkS.text" = "Unité";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mc2-Nh-9b5"; */
+"Mc2-Nh-9b5.normalTitle" = "Boutton";
+
+/* Class = "UILabel"; text = "000:00 min/km"; ObjectID = "Mf0-8f-z71"; */
+"Mf0-8f-z71.text" = "000:00 min/km";
+
+/* Class = "UILabel"; text = "-OR-"; ObjectID = "NO4-og-4Hq"; */
+"NO4-og-4Hq.text" = "-OU-";
+
+/* Class = "UILabel"; text = "Current Speed (km/h)"; ObjectID = "NdG-91-Mcu"; */
+"NdG-91-Mcu.text" = "Vitesse actuelle (km/h)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R2B-9C-WhT"; */
+"R2B-9C-WhT.normalTitle" = "Boutton";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "R40-6P-CW9"; */
+"R40-6P-CW9.normalTitle" = "S'inscrire";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rjd-RO-WuS"; */
+"Rjd-RO-WuS.normalTitle" = "Boutton";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "Ry5-Ur-DFm"; */
+"Ry5-Ur-DFm.placeholder" = "Entrer le mot de passe";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "SrZ-pa-6i7"; */
+"SrZ-pa-6i7.text" = "Subtitre";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "TT2-6m-PbS"; */
+"TT2-6m-PbS.placeholder" = "Emplacement";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "U7H-QG-Ol2"; */
+"U7H-QG-Ol2.title" = "Histoire";
+
+/* Class = "UILabel"; text = "User Info"; ObjectID = "VTm-WS-ley"; */
+"VTm-WS-ley.text" = "Info d'utilisateur";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "WBe-g1-3A7"; */
+"WBe-g1-3A7.normalTitle" = "CONFIRMER";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Wtf-kI-ISZ"; */
+"Wtf-kI-ISZ.text" = "S'inscrire'";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "X1R-Hc-yId"; */
+"X1R-Hc-yId.normalTitle" = "CONFIRMER";
+
+/* Class = "UILabel"; text = "Incorrect username and/or password. Please try again."; ObjectID = "XJk-be-zr4"; */
+"XJk-be-zr4.text" = "Nom d'utilisateur et/ou mot de passe incorrect. Veuillez réessayer.";
+
+/* Class = "UILabel"; text = "00.0 km/h"; ObjectID = "XyS-1e-Cuh"; */
+"XyS-1e-Cuh.text" = "00.0 km/h";
+
+/* Class = "UILabel"; text = "Icons provided by Icons8"; ObjectID = "aMh-qR-xYC"; */
+"aMh-qR-xYC.text" = "Icônes fournies par Icons8";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Profile";
+
+/* Class = "UILabel"; text = "Average Speed"; ObjectID = "bCS-Ad-uL1"; */
+"bCS-Ad-uL1.text" = "Vitesse moyenne";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "bJH-1z-kMS"; */
+"bJH-1z-kMS.text" = "00:00:00";
+
+/* Class = "UITabBarItem"; title = "Run"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Cours";
+
+/* Class = "UIButton"; normalTitle = "Log In with Email"; ObjectID = "cuI-xN-zMm"; */
+"cuI-xN-zMm.normalTitle" = "Connexion avec Email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dN2-So-xLF"; */
+"dN2-So-xLF.normalTitle" = "Boutton";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "frO-ZH-ld0"; */
+"frO-ZH-ld0.normalTitle" = "Boutton";
+
+/* Class = "UILabel"; text = "Month Day, Year"; ObjectID = "gPy-Gw-ezW"; */
+"gPy-Gw-ezW.text" = "Mois Jour, Année";
+
+/* Class = "UILabel"; text = "Total Distance"; ObjectID = "h0Z-KF-XWb"; */
+"h0Z-KF-XWb.text" = "Distance totale";
+
+/* Class = "UILabel"; text = "Select a color"; ObjectID = "hG5-jN-pdU"; */
+"hG5-jN-pdU.text" = "Sélectionnez une couleur";
+
+/* Class = "UILabel"; text = "Avg. Speed (km/hr)"; ObjectID = "hIO-Su-abB"; */
+"hIO-Su-abB.text" = "Vitesse Moyenne (km/hr)";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "hjD-Ii-t1w"; */
+"hjD-Ii-t1w.placeholder" = "Entrer Email";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "kDR-r3-AL8"; */
+"kDR-r3-AL8.text" = "0.00";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "ldy-Fp-4A1"; */
+"ldy-Fp-4A1.placeholder" = "Confirmez le mot de passe";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "nZl-cc-8Ch"; */
+"nZl-cc-8Ch.placeholder" = "Nom Complete";
+
+/* Class = "UILabel"; text = "Distance (km)"; ObjectID = "ogt-B9-bTe"; */
+"ogt-B9-bTe.text" = "Distance (km)";
+
+/* Class = "UILabel"; text = "0000.00"; ObjectID = "qzR-i4-03Q"; */
+"qzR-i4-03Q.text" = "0000.00";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "wPJ-eU-VyU"; */
+"wPJ-eU-VyU.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "Passwords do not match. Please try again."; ObjectID = "wis-oa-vHP"; */
+"wis-oa-vHP.text" = "Les mots de passe ne correspondent pas. Veuillez réessayer.";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "xII-tr-IAS"; */
+"xII-tr-IAS.normalTitle" = "CONFIRMER";
+
+/* Class = "UILabel"; text = "Total Duration"; ObjectID = "yVw-Ic-mIf"; */
+"yVw-Ic-mIf.text" = "Durée totale";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "yXn-lU-6LA"; */
+"yXn-lU-6LA.placeholder" = "Entrez le mot de passe";
